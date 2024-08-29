@@ -2,7 +2,7 @@ const options = {
     method: 'GET',
     headers: {
       accept: 'application/json',
-      Authorization: process.env.KEY
+      Authorization: process.env.KEY,
     cache: 'no-store'
   };
 
