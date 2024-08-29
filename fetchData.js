@@ -3,7 +3,6 @@ const options = {
     headers: {
       accept: 'application/json',
       Authorization: process.env.KEY,
-    cache: 'no-store'
   };
 
 
